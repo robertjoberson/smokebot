@@ -1,0 +1,41 @@
+export let config = {
+    "token": "",
+    "prefix": "s!",
+    "commands": [
+        "testCommand",
+        "ban",
+        "kick",
+        "buy",
+        "stash",
+        "shop",
+        "smoke",
+        "pass",
+        "vibe",
+        "help",
+        "simp",
+        "inhale",
+        "exhale",
+        "weed",
+        "oracle",
+        "j",
+        "leave",
+        "link",
+        "send",
+        "cum",
+        "profile",
+        "addword",
+        "delword",
+        "bet",
+        "market",
+        "work",
+        "bank",
+        "horn",
+        "pic",
+        "trans",
+        "trade",
+        "rep",
+        "eat"
+
+        //add "newCommand every new command"
+    ]
+}
